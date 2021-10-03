@@ -253,11 +253,11 @@ Analyzing more in depth the "geography" category. A deeper study about what the 
     
 **2 - More Types of Data.**
 
-Some assumptions requires different types of data to be available, as information about the products or dates showing when the customer arrived or left. In case, TopBank didn't have some, it would be a great advise telling them to start collecting them. Then, in the future this data would be well used.
+Some assumptions requires different types of data to be available, as information about the products or dates showing when the customer arrived or left. In case, TopBank didn't have some, it would be a great if We started to collect them. Then, in the future this data would be well used.
 
 **3 - Customer Clusters**
 
-A cluster analysis in favor of clients understanding may also be a later project to be implemented here. Identifying structures within the customer data could lead us to better understanding of who and why is leaving. There might not be enough data for this, though. I'm not really sure.
+A cluster analysis in favor of clients understanding may also be a later project to be implemented here. Identifying segments of customers could lead us to better understanding of who and why is leaving.
 
 **4 - Inactive Members**
 
