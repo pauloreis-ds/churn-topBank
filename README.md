@@ -7,9 +7,9 @@
             Resources
 
 [DataSet.](https://www.kaggle.com/mervetorkan/churndataset) <br>
-[Analysis](https://nbviewer.jupyter.org/github/pauloreis-ds/Projetos/blob/master/classification-churn/notebooks/topBank.ipynb)<br>
-[ML Modeling](https://nbviewer.jupyter.org/github/pauloreis-ds/Projetos/blob/master/classification-churn/notebooks/topBankModel.ipynb)<br>
-[PySpark Version](https://nbviewer.jupyter.org/github/pauloreis-ds/Projetos/blob/master/classification-churn/notebooks/1.0-pr-topbank-churn-pyspark.ipynb)<br>
+[Analysis](https://nbviewer.jupyter.org/github/pauloreis-ds/churn-topBank/blob/main/notebooks/1.0-pr-topbank-churn-eda.ipynb)<br>
+[ML Modeling](https://nbviewer.jupyter.org/github/pauloreis-ds/churn-topBank/blob/main/notebooks/1.0-pr-topbank-churn-ml.ipynb)<br>
+[PySpark Version](https://nbviewer.jupyter.org/github/pauloreis-ds/churn-topBank/blob/main/notebooks/1.0-pr-topbank-churn-pyspark.ipynb)<br>
 
 ## 1. Context of the Problem.
 
@@ -90,7 +90,7 @@ Observation: There are many ways to calculate the churn rate. One of them is:
                 It's expected for the bank to (re)gain 2,918,474.51 EUR with those customers.
                 
 > **In the worst case scenario this value would be about 24,495.35 EUR** <br>
-> You can check the mindset for the calculation at the end of [topBankModel notebook](https://nbviewer.jupyter.org/github/pauloreis-ds/Projetos/blob/master/classification-churn/notebooks/topBankModel.ipynb)
+> You can check the mindset for the calculation at the end of [topBankModel notebook](https://nbviewer.jupyter.org/github/pauloreis-ds/churn-topBank/blob/main/notebooks/1.0-pr-topbank-churn-ml.ipynb)
 
 **_You can check out the [Web App](https://share.streamlit.io/pauloreis-ds/topbankstreamlit/main/app.py) and see the model in action._**
 
